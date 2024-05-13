@@ -1,6 +1,9 @@
-# NCV8163_250mA_LDO_Regulator
+# NCV8163 250mA LDO Regulator
 
-NCV8163_250mA_Ultra-Low_Noise_LDO_Regulator_for_RF_Analog_Circuits
+250 mA, Ultra-Low Noise
+and High PSRR LDO
+Regulator for RF and
+Analog Circuits
 
 
 The NCV8163 is an LDO (Low Dropout Regulator) capable of supplying 250 mA output current. 
@@ -23,3 +26,37 @@ The device is designed to work with a 1 uF input and a 1 uF output ceramic capac
 - ADAS
 - Image Sensor
 - Radar / Lidar
+
+
+
+|Description|Value|
+| :------------| :------------ |
+|Maximum Output Current|250mA|
+|Regulator Type|Low Dropout Voltage|
+|Number of Outputs|1|
+|Output Voltage|3.3 V|
+|Line Regulation|0.02 %/V|
+|Load Regulation|0.015 %/mA|
+|Accuracy|±3%|
+|Mounting Type|Surface Mount|
+|Quiescent Current|20µA|
+|Package Type|TSOP|
+|Pin Count|5|
+|Output Type|Fixed|
+|Dimensions|3.15 x 1.65 x 1mm|
+|Maximum Input Voltage|5.5 V|
+|Height|1mm|
+|Maximum Operating Temperature|+150 °C|
+|Minimum Input Voltage|2.2 V|
+|Automotive Standard|AEC-Q100|
+|Width|1.65mm|
+|Length|3.15mm|
+	
+	
+	
+	
+	
+	
+	
+	
+	
